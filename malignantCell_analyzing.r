@@ -1,4 +1,4 @@
-# Retrieving malignant cells from HCC samples
+# Retrieving malignant cells from HCC Patients' Samples
 DefaultAssay(obj.hcc_icca)="RNA"
 
 obj.hcc=subset(obj.hcc_icca, subset=orig.ident=="HCC")
