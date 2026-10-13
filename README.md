@@ -1,1 +1,1 @@
-# Integrative analysis of single-cell RNA sequencing uncovers the prognosis of B cells and malignant cells in liver cancer patients
+# Integrative Single-cell RNA Sequencing Analysis Identifies B cell–associated Prognostic Signatures and Therapeutic Candidates in Liver Cancer
